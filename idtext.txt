@@ -1,0 +1,43 @@
+The concept of identity seems to be all the rage now in the social
+sciences. A critical focus of process oriented scholarship concerns
+why and how the social groups to which we belong whether ethnic,
+national, or transnational influence the knowledge, interpretations,
+beliefs, preferences, and strategies, that underlie both our
+individual and collective behavior. In addition, it appears that
+scholars have come to recognize that much discourse by actors is,
+broadly speaking, identity discourse; that is, actors use particular
+adjectives that describe the self and others in order to achieve
+goals, and these articulated self descriptions also serve as
+motivations for behavior.
+
+It is accurate to say, however, that there is not much consensus on
+how to define identity; nor is there consistency in the procedures
+used for determining the content and scope of identity; nor is there
+agreement on where to look for evidence that identity indeed affects
+knowledge, interpretations, beliefs, preferences, and strategies; nor
+is there agreement on how identity affects these components of
+action. At its simplest, the problem is that in social science there
+is no consensus on how to treat identity as a variable. Not that we
+should fetishize consensus but its absence reflects the dearth of work
+on some basic questions about how to conceptualize and study
+identity. We prefer to put the problem this way: If identity is a key
+independent variable explaining political, economic, and social
+behavior, how does it vary, why does it vary, and how would one know
+variation if one saw it?
+
+The aim of this project is to develop conceptualizations of identity
+and, more importantly, to develop technologies for observing identity
+and identity change that will have application in the social
+sciences. Heretofore the usual techniques for analyzing identity have
+consisted of hard-to-replicate discourse analysis or lengthy
+individual interviews, at one extreme, or the use of large-N surveys
+at the other. Yet, much social science research relies on historical
+and contemporaneous texts. We hope to develop computer-aided
+quantitative and qualitative methods for analyzing a large number of
+textual sources in order to determine the content, intensity, and
+contestation of individual and collective identities at any particular
+point in time and space. These methods will add to the portfolio of
+existing methods. It will allow researchers to approach identity
+research with a wider range of tools, including more rigorous and
+replicable methods of analyzing identity as an independent (and
+dependent) variable.
